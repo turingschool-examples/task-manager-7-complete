@@ -10,7 +10,7 @@ To get this repository cloned down and set up locally:
 $ git clone git@github.com:turingschool-examples/task-manager-7-complete.git
 $ cd task-manager-7-complete
 $ bundle install
-$ rake db:{drop,create,migrate}
+$ rails db:{drop,create,migrate}
 ```
 
 ## Running Locally
